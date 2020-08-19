@@ -62,7 +62,7 @@ $ npm run dev ou yarn dev
 As seguintes ferramentas foram usadas na construção do projeto:
 
 
-#### [**Server**  ([NodeJS](https://nodejs.org/en/) 
+#### **Server**  [NodeJS](https://nodejs.org/en/) 
 
 -   **[Express](https://expressjs.com/)**
 -   **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
